@@ -39,7 +39,7 @@ Features:
 - Employs machine learning models (XGBoost, decision tree, random forest) for predictive analysis
 - Offers a comprehensive understanding of shopper sentiments. 
 
-This project utilizes the dataset from Kaggle, which can be accessed [kaggle datasets download -d nelgiriyewithana/shoppersentiments].
+This project utilizes the dataset from Kaggle, which can be accessed [https://www.kaggle.com/datasets/nelgiriyewithana/shoppersentiments?select=TeePublic_review.csv].
 
 The insights derived from this project have significant real-world applications across various industries. By understanding shopper sentiments more effectively, businesses can make informed decisions to enhance customer satisfaction, improve product offerings, and optimize marketing strategies. This project serves as a testament to the power of data science and AI in unlocking actionable insights from vast amounts of unstructured data, ultimately leading to tangible improvements in the real world.
 
