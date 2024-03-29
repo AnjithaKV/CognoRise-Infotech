@@ -32,3 +32,15 @@ Results:
 
 As we look towards the future, the lessons learned from this project serve as a testament to the power of data science in driving informed decision-making and unlocking new opportunities in the cinema industry. Future enhancements could include refining modeling techniques, exploring additional features such as movie genre and release date, and expanding the scope of analysis to include external factors like holidays or events.
 
+# Task 4 - Shopper Sentiments Analysis with NLP
+The goal of this project is to analyze shopper sentiments using Natural Language Processing (NLP) techniques and machine learning models.
+Features:
+- Utilizes state-of-the-art NLP techniques for sentiment analysis
+- Employs machine learning models (XGBoost, decision tree, random forest) for predictive analysis
+- Offers a comprehensive understanding of shopper sentiments. 
+
+This project utilizes the dataset from Kaggle, which can be accessed [kaggle datasets download -d nelgiriyewithana/shoppersentiments].
+
+The insights derived from this project have significant real-world applications across various industries. By understanding shopper sentiments more effectively, businesses can make informed decisions to enhance customer satisfaction, improve product offerings, and optimize marketing strategies. This project serves as a testament to the power of data science and AI in unlocking actionable insights from vast amounts of unstructured data, ultimately leading to tangible improvements in the real world.
+
+
